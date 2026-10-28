@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="INFRASTRUCTURE: Homelab server Self-hosting applications with Docker &amp; Nginx">
+<rect x="0.5" y="0.5" width="299" height="209" rx="10" fill="#151b23" stroke="#30363d"/>
+<rect x="20" y="0.5" width="40" height="3" rx="1.5" fill="#ab7df8"/>
+<text x="20" y="32" font-size="11" font-weight="700" letter-spacing="1.4" fill="#ab7df8">INFRASTRUCTURE</text>
+<text x="20" y="74" font-size="34" font-weight="700" fill="#f0f6fc">Homelab<tspan dx="6" font-size="15" font-weight="600" fill="#9198a1">server</tspan></text><text x="20" y="96" font-size="13" fill="#9198a1">Self-hosting applications with Docker &amp; Nginx</text>
+<line x1="20" y1="113" x2="280" y2="113" stroke="#262c36"/>
+<circle cx="26" cy="136" r="3" fill="#ab7df8"/><text x="38" y="140" font-size="13" font-weight="600" fill="#f0f6fc">Docker &amp; Nginx</text><text x="38" y="156" font-size="12" fill="#9198a1">Containerization, reverse proxy</text><circle cx="26" cy="172" r="3" fill="#ab7df8"/><text x="38" y="176" font-size="13" font-weight="600" fill="#f0f6fc">CI/CD &amp; Linux</text><text x="38" y="192" font-size="12" fill="#9198a1">Automated deployments, SSH</text>
+</svg>
