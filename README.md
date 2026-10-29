@@ -76,10 +76,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=KarunJr&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api?username=KarunJr&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=KarunJr&show_icons=true&hide_rank=true&theme=default&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api?username=KarunJr&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy"
       height="165"
       alt="GitHub Stats"
     />
@@ -87,10 +87,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KarunJr&layout=compact&theme=github_dark&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=KarunJr&layout=compact&langs_count=4&theme=dark_github"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarunJr&layout=compact&theme=default&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=KarunJr&layout=compact&langs_count=4&theme=dark_github"
       height="165"
       alt="Top Languages"
     />
