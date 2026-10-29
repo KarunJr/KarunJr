@@ -2,7 +2,7 @@
 
 <h1>Karun Ghimire</h1>
 
-<p><b>Full-stack developer</b> &nbsp;·&nbsp; <b>Open-source contributor</b> &nbsp;·&nbsp; <b>Indie game developer</b></p>
+<p><b>Full-stack developer</b></p>
 
 <a href="https://www.ghimirekarun.com.np/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/karun-ghimire/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-<a href="https://multiply-oversized-ceramics.ngrok-free.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-projects-dark.svg" /><img src="assets/card-projects-light.svg" width="32%" alt="Products: 4,000+ users on Edmit; FiB – Finance Buddy on Google Play" /></picture></a>
-<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-experience-dark.svg" /><img src="assets/card-experience-light.svg" width="32%" alt="Open source: 20+ merged PRs to freeCodeCamp: test fixes, accessibility and curriculum lessons" /></picture></a>
-<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-infrastructure-dark.svg" /><img src="assets/card-infrastructure-light.svg" width="32%" alt="Games: Capybara Space Quest on Google Play; BeatHop and PenFight in development" /></picture></a>
+<a href="https://multiply-oversized-ceramics.ngrok-free.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-projects-dark.svg" /><img src="assets/card-projects-light.svg" width="32%" alt="Projects: CineTickets; Next Chat; Full-stack applications built and deployed" /></picture></a>
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-experience-dark.svg" /><img src="assets/card-experience-light.svg" width="32%" alt="Internship: Software Engineering Intern at WiLL Design: backend debugging, regression testing, bug fixes." /></picture></a>
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-infrastructure-dark.svg" /><img src="assets/card-infrastructure-light.svg" width="32%" alt="Infrastructure: Self-hosting applications with Docker & Nginx" /></picture></a>
 </p>
 
 <br/>
@@ -52,49 +52,71 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-<h4 align="center">ML &amp; AI</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
-
 <h4 align="center">Cloud &amp; DevOps</h4>
 <p align="center">
-<img src="assets/aws.svg" alt="AWS" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-<h4 align="center">Games &amp; Tools</h4>
+<h4 align="center">Tools</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 <br/>
 
-<h2 align="center">Activity</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sidsmartz&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api?username=Sidsmartz&show_icons=true&hide_rank=true&theme=default&hide_border=true" height="165" alt="GitHub stats" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidsmartz&layout=compact&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidsmartz&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" /></picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=KarunJr&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=KarunJr&show_icons=true&hide_rank=true&theme=default&hide_border=true"
+      height="165"
+      alt="GitHub Stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KarunJr&layout=compact&theme=github_dark&hide_border=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarunJr&layout=compact&theme=default&hide_border=true"
+      height="165"
+      alt="Top Languages"
+    />
+  </picture>
+</p>
+
+
+<p align="center">
+  <img
+    src="assets/space-shooter.gif"
+    width="100%"
+    alt="Space shooter playing through my contribution graph"
+  />
 </p>
 
 <p align="center">
-  <img src="assets/space-shooter.gif" width="100%" alt="Space shooter playing through my contribution graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KarunJr/KarunJr/output/snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/KarunJr/KarunJr/output/snake.svg"
+      width="100%"
+      alt="Snake eating my contribution graph"
+    />
+  </picture>
 </p>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake-dark.svg" /><img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" width="100%" alt="Snake eating my contribution graph" /></picture>
-</p>
